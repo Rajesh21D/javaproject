@@ -16,4 +16,6 @@ public class TestClass implements MyInterface1,MyInterface2{
 		
 		t.display();
 	}
+	
+  System.out.println("Hii")
 }
